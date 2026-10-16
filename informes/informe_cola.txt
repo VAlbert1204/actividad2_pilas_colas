@@ -1,0 +1,11 @@
+INFORME DE COLA - CONSULTORIO ODONTOLOGICO
+Agenda del dia atendida en orden de llegada
+------------------------------------------------------------
+1. Nombre: Pedro Sanchez | Documento: 1112233445 | Telefono: 3001010101 | Cita: Revision | Prioridad: Normal | Fecha: 2026-10-16 | Hora: 08:00
+2. Nombre: Ana Martinez | Documento: 1223344556 | Telefono: 3012020202 | Cita: Limpieza | Prioridad: Normal | Fecha: 2026-10-16 | Hora: 08:30
+3. Nombre: Camila Herrera | Documento: 1012345678 | Telefono: 3169990011 | Cita: Extraccion | Prioridad: Urgente | Fecha: 2026-10-16 | Hora: 09:00
+4. Nombre: Luis Romero | Documento: 1334455667 | Telefono: 3023030303 | Cita: Ortodoncia | Prioridad: Normal | Fecha: 2026-10-16 | Hora: 09:30
+5. Nombre: Elena Castro | Documento: 1445566778 | Telefono: 3034040404 | Cita: Extraccion | Prioridad: Normal | Fecha: 2026-10-16 | Hora: 10:00
+6. Nombre: Ricardo Nieto | Documento: 1556677889 | Telefono: 3045050505 | Cita: Revision | Prioridad: Normal | Fecha: 2026-10-16 | Hora: 10:30
+7. Nombre: Paola Mejia | Documento: 1667788990 | Telefono: 3056060606 | Cita: Limpieza | Prioridad: Normal | Fecha: 2026-10-16 | Hora: 11:00
+8. Nombre: Oscar Duarte | Documento: 1778899001 | Telefono: 3067070707 | Cita: Blanqueamiento | Prioridad: Normal | Fecha: 2026-10-16 | Hora: 11:30

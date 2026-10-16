@@ -1,0 +1,74 @@
+[
+  {
+    "nombre": "Pedro Sanchez",
+    "documento": "1112233445",
+    "telefono": "3001010101",
+    "tipo_cita": "Revision",
+    "prioridad": "Normal",
+    "fecha": "2026-10-16",
+    "hora": "08:00"
+  },
+  {
+    "nombre": "Ana Martinez",
+    "documento": "1223344556",
+    "telefono": "3012020202",
+    "tipo_cita": "Limpieza",
+    "prioridad": "Normal",
+    "fecha": "2026-10-16",
+    "hora": "08:30"
+  },
+  {
+    "nombre": "Camila Herrera",
+    "documento": "1012345678",
+    "telefono": "3169990011",
+    "tipo_cita": "Extraccion",
+    "prioridad": "Urgente",
+    "fecha": "2026-10-16",
+    "hora": "09:00"
+  },
+  {
+    "nombre": "Luis Romero",
+    "documento": "1334455667",
+    "telefono": "3023030303",
+    "tipo_cita": "Ortodoncia",
+    "prioridad": "Normal",
+    "fecha": "2026-10-16",
+    "hora": "09:30"
+  },
+  {
+    "nombre": "Elena Castro",
+    "documento": "1445566778",
+    "telefono": "3034040404",
+    "tipo_cita": "Extraccion",
+    "prioridad": "Normal",
+    "fecha": "2026-10-16",
+    "hora": "10:00"
+  },
+  {
+    "nombre": "Ricardo Nieto",
+    "documento": "1556677889",
+    "telefono": "3045050505",
+    "tipo_cita": "Revision",
+    "prioridad": "Normal",
+    "fecha": "2026-10-16",
+    "hora": "10:30"
+  },
+  {
+    "nombre": "Paola Mejia",
+    "documento": "1667788990",
+    "telefono": "3056060606",
+    "tipo_cita": "Limpieza",
+    "prioridad": "Normal",
+    "fecha": "2026-10-16",
+    "hora": "11:00"
+  },
+  {
+    "nombre": "Oscar Duarte",
+    "documento": "1778899001",
+    "telefono": "3067070707",
+    "tipo_cita": "Blanqueamiento",
+    "prioridad": "Normal",
+    "fecha": "2026-10-16",
+    "hora": "11:30"
+  }
+]

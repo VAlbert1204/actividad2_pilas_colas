@@ -1,0 +1,92 @@
+[
+  {
+    "nombre": "Laura Gomez",
+    "documento": "1023456789",
+    "telefono": "3001112233",
+    "tipo_cita": "Extraccion",
+    "prioridad": "Urgente",
+    "fecha": "2026-10-18",
+    "hora": "08:00"
+  },
+  {
+    "nombre": "Carlos Perez",
+    "documento": "1098765432",
+    "telefono": "3012223344",
+    "tipo_cita": "Limpieza",
+    "prioridad": "Normal",
+    "fecha": "2026-10-17",
+    "hora": "09:00"
+  },
+  {
+    "nombre": "Maria Torres",
+    "documento": "1032145678",
+    "telefono": "3103334455",
+    "tipo_cita": "Extraccion",
+    "prioridad": "Urgente",
+    "fecha": "2026-10-17",
+    "hora": "10:30"
+  },
+  {
+    "nombre": "Andres Ruiz",
+    "documento": "1045678912",
+    "telefono": "3154445566",
+    "tipo_cita": "Extraccion",
+    "prioridad": "Normal",
+    "fecha": "2026-10-16",
+    "hora": "11:00"
+  },
+  {
+    "nombre": "Sofia Ramirez",
+    "documento": "1056789123",
+    "telefono": "3205556677",
+    "tipo_cita": "Ortodoncia",
+    "prioridad": "Urgente",
+    "fecha": "2026-10-16",
+    "hora": "14:00"
+  },
+  {
+    "nombre": "Diego Castillo",
+    "documento": "1067891234",
+    "telefono": "3126667788",
+    "tipo_cita": "Extraccion",
+    "prioridad": "Urgente",
+    "fecha": "2026-10-20",
+    "hora": "08:30"
+  },
+  {
+    "nombre": "Valentina Lopez",
+    "documento": "1078912345",
+    "telefono": "3137778899",
+    "tipo_cita": "Revision",
+    "prioridad": "Normal",
+    "fecha": "2026-10-18",
+    "hora": "15:00"
+  },
+  {
+    "nombre": "Juan Morales",
+    "documento": "1089123456",
+    "telefono": "3148889900",
+    "tipo_cita": "Extraccion",
+    "prioridad": "Urgente",
+    "fecha": "2026-10-19",
+    "hora": "09:30"
+  },
+  {
+    "nombre": "Camila Herrera",
+    "documento": "1012345678",
+    "telefono": "3169990011",
+    "tipo_cita": "Extraccion",
+    "prioridad": "Urgente",
+    "fecha": "2026-10-16",
+    "hora": "16:00"
+  },
+  {
+    "nombre": "Felipe Vargas",
+    "documento": "1091234567",
+    "telefono": "3170001122",
+    "tipo_cita": "Blanqueamiento",
+    "prioridad": "Normal",
+    "fecha": "2026-10-19",
+    "hora": "11:30"
+  }
+]

@@ -1,0 +1,9 @@
+INFORME DE PILA - CONSULTORIO ODONTOLOGICO
+Clientes para extraccion dental con prioridad urgente
+Orden: fecha mas cercana a la mas lejana (cima de la pila primero)
+------------------------------------------------------------
+1. Nombre: Camila Herrera | Documento: 1012345678 | Telefono: 3169990011 | Cita: Extraccion | Prioridad: Urgente | Fecha: 2026-10-16 | Hora: 16:00
+2. Nombre: Maria Torres | Documento: 1032145678 | Telefono: 3103334455 | Cita: Extraccion | Prioridad: Urgente | Fecha: 2026-10-17 | Hora: 10:30
+3. Nombre: Laura Gomez | Documento: 1023456789 | Telefono: 3001112233 | Cita: Extraccion | Prioridad: Urgente | Fecha: 2026-10-18 | Hora: 08:00
+4. Nombre: Juan Morales | Documento: 1089123456 | Telefono: 3148889900 | Cita: Extraccion | Prioridad: Urgente | Fecha: 2026-10-19 | Hora: 09:30
+5. Nombre: Diego Castillo | Documento: 1067891234 | Telefono: 3126667788 | Cita: Extraccion | Prioridad: Urgente | Fecha: 2026-10-20 | Hora: 08:30
